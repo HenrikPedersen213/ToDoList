@@ -1,3 +1,9 @@
+#IMPORTANT NOTE
+This project was created using Junie code agent from intellij idea, this was a test run to see its
+capabilities. All i did was give it correct inputs and debugg its outputs for obvious mistakes.
+
+
+
 # To-Do List Application
 
 A full-stack to-do list application with a Spring Boot backend and a simple HTML/CSS/JavaScript frontend.
